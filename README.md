@@ -44,8 +44,3 @@ It provides insights into athlete participation, medal distribution, and country
 - DAX (Data Analysis Expressions)
 
 ---
-
-## 📷 Dashboard Preview
-
-
-  # olympic-analysis-powerbi
